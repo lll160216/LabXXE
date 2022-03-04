@@ -1,0 +1,26 @@
+.footer{
+    text-align: center;
+    margin-top: 125px;
+}
+.footer-title{
+    font-size: -webkit-xxx-large;
+}
+.footer-main{
+    font-size: 21px;
+    margin-top: 30px;
+    width: 500px;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 1.6;
+    box-shadow: 0px 0px 10px #aaa;
+}
+.list-sv{
+    list-style-type: none;
+    width: 350px;
+    margin: auto;
+    text-align: justify;
+}
+.footer-xxe{
+    padding-top: 20px;
+}
+/* end bonus */
